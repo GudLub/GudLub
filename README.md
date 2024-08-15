@@ -1,11 +1,6 @@
-
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6A88F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+space+%3A)" alt="Typing SVG" /></a>
-</p>
 <h1 align="center">Hi 👋, my name is <a href="https://github.com/GudLub/" target="_blank"> Lubov</h1>
 
-<h3 align="center">IT new Frontend developer from Russia 🇷🇺</h3>
+<h3 align="center">Frontend developer from Russia 🇷🇺</h3>
 
 - 🌱 Hi, I am Lubov and I write code.
 
@@ -15,7 +10,7 @@
 
 <br>
 
-<div align="center">
+<div>
   <h3>My technologies :computer:</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="45" height="45"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="45" height="45"/>&nbsp
@@ -37,7 +32,7 @@
   
 </div>
 
-<div align="center">
+<div>
   <h3>My tools :key:</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="45" height="45" fill="red"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="45" height="45"/>&nbsp
