@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">Hi 👋, my name is <a href="https://github.com/GudLub/" target="_blank"> Lubov</h1>
 
-<h3 align="center">IT news Frontend developer from Russia 🇷🇺</h3>
+<h3 align="center">IT new Frontend developer from Russia 🇷🇺</h3>
 
 - 🌱 Hi, I am Lubov and I write code.
 
