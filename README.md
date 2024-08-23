@@ -16,7 +16,7 @@
       <a href="https://gudlub.github.io/mesto-project/" target="_blank">"Mesto project"</a>
     </li>
       <li>
-      <a href="https://gudlub.github.io" target="_blank">"React Burger"</a>
+      <a href="https://gudlub.github.io/react-burger/" target="_blank">"React Burger"</a>
     </li>
   </ul>
   
